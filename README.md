@@ -15,7 +15,8 @@ The primary goal of this project is to analyze the Movie Lens dataset to uncover
 - **Insights and Trends**: Identified and analyzed significant trends such as popular genres, top-rated content, and viewing patterns.
 
 ## Files
-- **https://drive.google.com/file/d/1FvZstQL8hONsjqgvXoi7Quc0N1GWd_hD/view?usp=sharing**: The main Power BI report file containing all the dashboards and visualizations.
+- **https://drive.google.com/file/d/1U9u6wdNGFw3Iz7tTVP6WMOlVqML3vjgt/view?usp=sharing**: The main Power BI report file in 
+ pdf format containing all the dashboards and visualizations.
 - **https://drive.google.com/drive/folders/1FHaaueS9cBCyMCc7z7mtY0a4CbnMBvyT?usp=sharing**: Folder containing the raw data files used in the project.
 
 ## Dashboards
@@ -30,5 +31,9 @@ The primary goal of this project is to analyze the Movie Lens dataset to uncover
 ### 3. Top-Rated Content
 - **Purpose**: Highlights the top-rated movies and TV shows.
 - **Key Metrics**: Top 10 movies by rating, top 10 TV shows by rating, user review analysis.
+
 ![Screenshot 2024-05-29 212609](https://github.com/Saurav60/DataAnalytics_projects-/assets/54544042/42435349-1a1a-4a12-b5bb-bf34e33aa4eb)
 
+![Screenshot 2024-05-30 101543](https://github.com/Saurav60/DataAnalytics_projects-/assets/54544042/629a5b79-d1d8-4c66-9ee7-d9e9e73c3710)
+
+![Screenshot 2024-05-30 102018](https://github.com/Saurav60/DataAnalytics_projects-/assets/54544042/db08551c-77b5-4e34-ae2a-fb1d5ec4dd75)
